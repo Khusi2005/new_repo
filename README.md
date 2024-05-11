@@ -1,8 +1,8 @@
 # new_repo
 this is a demo file
 <br>
-author:"khusi shaw"
+author:"khusi"
 <br>
 contact: khusishaw2005@gmail.com
-<br>.
+<br>
 Mobile:6290656XXX
